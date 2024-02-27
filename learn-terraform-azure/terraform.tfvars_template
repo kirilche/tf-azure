@@ -1,3 +1,5 @@
-
 myTFrg_name = ""
 myTFrg_location = "westus2"
+vnet_name = ""
+vnet_location = "westus2"
+vnet_ip_ranges = []
